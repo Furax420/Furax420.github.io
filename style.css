@@ -646,22 +646,3 @@ footer p {
     letter-spacing: 0.3em;
 }
 
-/* //////////////////MEDIA QUERIES ////////////////////////// */
-@media screen and (max-width: 990px) {
-    .infos h5, .typed {
-        font-size: 0.9em;
-    }
-    #mail {
-        font-size: 0.8em;
-    }
-    .network {
-        font-size: 2em;
-        padding: 10px 20px;
-    }
-}
-
-@media screen and (max-width: 770px) {
-    #other-skills {
-        font-size: 0.6em;
-    }
-}
